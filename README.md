@@ -1,0 +1,1 @@
+# q-business-github-connector-resources
