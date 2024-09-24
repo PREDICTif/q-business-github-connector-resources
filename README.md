@@ -1,3 +1,43 @@
+# Project Setup steps
+
+1. **Clone the repository**:
+
+    ```bash
+    git clone https://github.com/yourusername/your-repo-name.git
+    cd your-repo-name
+    ```
+
+2. **Install Poetry**(if not already installed):
+
+    ```bash
+    pip install poetry
+    ```
+   
+
+3. **Create a virtual environment**:
+
+    ```bash
+    poetry shell
+    ```
+
+
+4. **Install the dependencies**:
+
+    ```bash
+    poetry install
+    ```
+   
+
+5. **[Placeholder]** (add in your next installation step here):
+
+    ```bash
+    [Placeholder]
+    ```
+   
+
+
+
+
 ## How to create Amazon Bedrock Knowledge base.
 
 To create our Amazon Bedrock Knowledge base we will:
